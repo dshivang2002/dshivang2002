@@ -2,7 +2,7 @@
 
 
 
-#### 🔭 I’m interested in Data Science and Data Analytics
+#### 🔭 I’m interested in Data Analytics and Data Science
 #### 🌱 I’m currently learning Data Science 
 #### 👯 I’m looking to collaborate on : 
 - Data Science Projects
